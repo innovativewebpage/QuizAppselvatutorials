@@ -1,0 +1,27 @@
+.Main-Content h1
+{
+color:blue;
+text-align:center;
+}
+
+.Main-Content button
+{
+	color:red;
+	background:rgba(12,6,90,0.8);
+	padding:10px;
+	border:1px solid black;
+	font-size:larger;
+	transition:0.3s;
+}	
+.Main-Content button:hover{
+	cursor:pointer;
+	background:rgb(12,6,90);
+}
+
+.Main-Content h2
+{
+	color:red;
+	text-align:center;
+}
+
+
